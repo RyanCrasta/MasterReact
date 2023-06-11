@@ -6,3 +6,5 @@
 
 - One can have only one **default export** per file. The naming of import is completely independent in default export and we can use any name we like. When we import we have to specify a name and import like:
 ![image](https://github.com/RyanCrasta/MasterReact/assets/65001186/6cdec913-fcc2-4c1a-b6c6-7a6e98b76d47)
+
+- `import * as somename` imports all the named exports which you can call them by using the dot operator and the alias name
